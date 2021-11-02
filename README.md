@@ -1,4 +1,4 @@
-# robofriends
+# RobotsPWA
 React + Redux
 
 To run the project:

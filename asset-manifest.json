@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/Robots_PWA/static/css/main.0d363b0e.chunk.css",
+    "main.js": "/github.io/Robots_PWA/static/js/main.ba524a00.chunk.js",
+    "main.js.map": "/github.io/Robots_PWA/static/js/main.ba524a00.chunk.js.map",
+    "runtime-main.js": "/github.io/Robots_PWA/static/js/runtime-main.a3f75dc8.js",
+    "runtime-main.js.map": "/github.io/Robots_PWA/static/js/runtime-main.a3f75dc8.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/github.io/Robots_PWA/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js": "/github.io/Robots_PWA/static/js/2.5bdf2fbf.chunk.js",
+    "static/js/2.5bdf2fbf.chunk.js.map": "/github.io/Robots_PWA/static/js/2.5bdf2fbf.chunk.js.map",
+    "index.html": "/github.io/Robots_PWA/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/github.io/Robots_PWA/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.0d363b0e.chunk.css.map": "/github.io/Robots_PWA/static/css/main.0d363b0e.chunk.css.map",
+    "static/js/2.5bdf2fbf.chunk.js.LICENSE.txt": "/github.io/Robots_PWA/static/js/2.5bdf2fbf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github.io/Robots_PWA/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3f75dc8.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5bdf2fbf.chunk.js",
+    "static/css/main.0d363b0e.chunk.css",
+    "static/js/main.ba524a00.chunk.js"
+  ]
+}
